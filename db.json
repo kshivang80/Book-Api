@@ -187,10 +187,34 @@
   "cart": [
     
     {
-      "id": 16
-    },
-    {
-      "id": 17
-    }
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://m.media-amazon.com/images/I/81gepf1eMqL.jpg",
+      "year": 1960,
+      "publish": "J. B. Lippincott & Co",
+      "ISBN": 9780061120084,
+      "price": 1200
+      },
+      {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "image": "https://m.media-amazon.com/images/I/819ijTWp9JL.jpg",
+      "year": 1949,
+      "publish": "Secker & Warburg",
+      "ISBN": 9780451524935,
+      "price": 800
+      },
+      {
+      "id": 5,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://m.media-amazon.com/images/I/71FTb9X6wsL.jpg",
+      "year": 1925,
+      "publish": "Charles Scribner's Sons",
+      "ISBN": 9780743273565,
+      "price": 1900
+      }
   ]
 }
